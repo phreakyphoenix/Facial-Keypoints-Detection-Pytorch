@@ -1,4 +1,4 @@
-# CVND_P1_Facial_Keypoints created with :heart: in Pytorch
+# Facial Keypoints 
 [//]: # (Image References)
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
@@ -174,4 +174,5 @@ Alternatively, your submission could consist of only the **GitHub link** to your
 |:---------------------:|:---------------------------------------------------------:| 
 | Predict and display the keypoints on each detected face. | After face detection with a Haar cascade and face pre-processing, apply your trained model to each detected face, and display the predicted keypoints on each face in the image. |
 
+### CVND_P1_Facial_Keypoints created with :heart: in Pytorch
 LICENSE: This project is licensed under the terms of the MIT license.
