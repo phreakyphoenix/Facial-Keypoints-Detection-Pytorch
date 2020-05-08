@@ -33,8 +33,8 @@ All of the starting code and resources you'll need to compete this project are i
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/udacity/P1_Facial_Keypoints.git
-cd P1_Facial_Keypoints
+git clone https://github.com/phreakyphoenix/CVND_P1_Facial_Keypoints_Pytorch.git
+cd CVND_P1_Facial_Keypoints_Pytorch
 ```
 
 2. Create (and activate) a new environment, named `cv-nd` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
@@ -80,7 +80,7 @@ All of the data you'll need to train a neural network is in the P1_Facial_Keypoi
 1. Navigate back to the repo. (Also, your source environment should still be activated at this point.)
 ```shell
 cd
-cd P1_Facial_Keypoints
+cd CVND_P1_Facial_Keypoints_Pytorch
 ```
 
 2. Open the directory of notebooks, using the below command. You'll see all of the project files appear in your local environment; open the first notebook and follow the instructions.
