@@ -1,3 +1,3 @@
-To join the part files to one model file use cat 
+To join the part files to one model file use 
 
-keypoints_model_1.pt.part_*>keypoints_model_1.pt
+_cat keypoints_model_1.pt.part_*>keypoints_model_1.pt_
