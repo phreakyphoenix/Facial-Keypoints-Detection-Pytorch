@@ -89,4 +89,4 @@ jupyter notebook
 ```
 
 ### CVND_P1_Facial_Keypoints created with :heart: in Pytorch
-LICENSE: This project is licensed under the terms of the MIT license.
+LICENSE: This project and associated code is licensed under the terms of the GPLv3.
